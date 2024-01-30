@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Eduardo and I'm a backend developerfrom Mexico</p>
+<p align="left">My name is Eduardo and I'm a backend developer from Mexico</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2015<br>📚 I'm currently learning Spring<br>🎯 Goals:Master backend development and specialize in AI to craft creative solutions. Strive to be recognized as a proficient professional in software development and artificial intelligence.</p>
+<p align="left">✨ Creating bugs since 2015<br>📚 I'm currently learning backend development and AI<br>🎯 Goals:Master backend development and specialize in AI to craft creative solutions. Strive to be recognized as a proficient professional in software development and artificial intelligence.</p>
 
 ###
 
