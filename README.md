@@ -1,8 +1,16 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+![67](https://github.com/odraude67/odraude67/assets/113130375/e313b498-8224-4313-b4af-716ca6388dd9)
+<p align="center">
+  <samp>
+Hey, I'm Eduardo Perez, a web and app developer 🖥️ from Mexico!  
+I have a strong background in backend and artificial intelligence 🤖.  
+Being a self-taught and creative individual, I love diving into innovative solutions 💡.  
+Outside the coding realm, you'll find me engrossed in reading 📚 and enjoying practicing football ⚽.
+  </samp>
+  <br/>
+  <br/>
+</p>
 
 ###
-
-<p align="left">My name is Eduardo and I'm a backend developer from Mexico</p>
 
 ###
 
